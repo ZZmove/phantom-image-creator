@@ -10,6 +10,8 @@ Here is the script introduction text, formatted in Markdown, ready for you to co
 This Python script creates a "phantom" or "chameleon" PNG image from two source images. The resulting transparent PNG will display `image1` when placed on a dark background (or the color specified by `--color1`) and `image2` when placed on a light background (or the color specified by `--color2`).
 
 This script is a Python port of the core algorithm found in the JavaScript implementation at [kirie.xyz/pages/bw](https://kirie.xyz/pages/bw), converted to a command-line tool using the Pillow library.
+<img width="2857" height="333" alt="image" src="https://github.com/user-attachments/assets/44fab1f1-c271-4693-9fea-4158c8452495" />
+
 
 #### Requirements
 
