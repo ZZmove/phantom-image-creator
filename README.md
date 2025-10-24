@@ -57,6 +57,8 @@ python create_image.py "img_RED.png" "img_BLUE.png" --size 1000 --color1 "#FF000
 *Output: `my_phantom_image.png`*
 
 **How to check the result and send the picture in X**
+
 I suggest using photoshop to chk the final result. 
 <img width="545" height="285" alt="image" src="https://github.com/user-attachments/assets/3feb7eef-c8f6-41dc-8639-7b06d9d3799f" />
-Do send your pictures throuh your PC.
+
+*Do send your pictures throuh your PC.*
