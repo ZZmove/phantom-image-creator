@@ -1,6 +1,6 @@
 # phantom-image-creator
 Python script to create 'phantom' images that change based on background color.
-'Phantom' images is a traditional twitter/X trick, see post:[2014-EG1](https://x.com/AaronFriedman/status/422693248675479552) [2025-EG2-NSFW](https://x.com/Mao80y/status/1981263718563627367).
+'Phantom' images is a traditional twitter/X trick, see post:[2014-EG1](https://x.com/AaronFriedman/status/422693248675479552) ,[2025-EG2-NSFW](https://x.com/Mao80y/status/1981263718563627367).
 Here is the script introduction text, formatted in Markdown, ready for you to copy and paste directly into your `README.md` file on GitHub.
 
 -----
@@ -55,3 +55,8 @@ python create_image.py "img_RED.png" "img_BLUE.png" --size 1000 --color1 "#FF000
 ```
 
 *Output: `my_phantom_image.png`*
+
+**How to check the result and send the picture in X**
+I suggest using photoshop to chk the final result. 
+<img width="545" height="285" alt="image" src="https://github.com/user-attachments/assets/3feb7eef-c8f6-41dc-8639-7b06d9d3799f" />
+Do send your pictures throuh your PC.
