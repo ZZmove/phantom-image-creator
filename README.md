@@ -1,5 +1,6 @@
 # phantom-image-creator
 Python script to create 'phantom' images that change based on background color.
+'Phantom' images is a traditional twitter/X trick, see post:[2014-EG1](https://x.com/AaronFriedman/status/422693248675479552) [2025-EG2-NSFW](https://x.com/Mao80y/status/1981263718563627367).
 Here is the script introduction text, formatted in Markdown, ready for you to copy and paste directly into your `README.md` file on GitHub.
 
 -----
